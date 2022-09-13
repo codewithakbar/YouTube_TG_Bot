@@ -52,7 +52,7 @@ async def user_auth(message: types.Message):
             {
                 "ID": message.from_user.id,
                 "Name": message.from_user.full_name,
-                "Link_Bio": f"@{message.from_user.first_name}"
+                "Link_Bio": f"@{message.from_user.username}"
 
             }
         )
