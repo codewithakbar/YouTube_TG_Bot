@@ -1,4 +1,12 @@
-from email.mime import message
+#
+# Copyright (C) 2022 by codewithakbar(Satipoff), < https://github.com/codewithakbar >.
+#
+# This file is part of < https://github.com/codewithakbar/YouTube_TG_Bot.git > project,
+# and is released under the "MIT".
+# Please see < https://github.com/codewithakbar/YouTube_TG_Bot/blob/master/LICENSE.md >
+#
+# All rights reserved.
+
 from youtube_search import YoutubeSearch
 
 from config import TOKEN
